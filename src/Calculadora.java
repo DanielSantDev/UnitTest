@@ -31,18 +31,18 @@ public class Calculadora {
         }
 
         public int SOMA(){
-                return Result = A + B;
+                return Resultado = A + B;
         }
 
         public int MULTIPLICA(){
-                return Result = A * B;
+                return Resultado = A * B;
         }
 
         public int SUBTRAI(){
-                return Result = A - B;
+                return Resultado = A - B;
         }
 
         public int DIVIDE(){
-                return Result = A / B;
+                return Resultado = A / B;
         }
 }
